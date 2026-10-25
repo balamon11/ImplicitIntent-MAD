@@ -27,6 +27,8 @@ Developed by: ISRAVEL Y
 Registeration Number : 212225240054
 
 ```
+### MainActivity.java
+
 ```java
 
 package com.example.implicitintent;
@@ -61,6 +63,8 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+
+### activity_main.xml
 
 ```xml
 
